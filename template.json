@@ -1,0 +1,23 @@
+{
+  "name": "The Living Voice Archive",
+  "slug": "living-voice-archive",
+  "concept": "Nigerian oral-history archive",
+  "category": "culture-community",
+  "subcategory": "oral-history-archive",
+  "description": "A catalogue-card oral history archive with typewriter metadata, language filter, contributing guide and reading-room information.",
+  "design_family": "archival-catalogue",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "catalogue index-card grid",
+    "working language filter chips",
+    "typewriter mono metadata",
+    "recently catalogued ledger",
+    "contribution guidelines",
+    "collections rail"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
